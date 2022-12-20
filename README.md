@@ -7,7 +7,7 @@ Tecnologias
 - [Cypress] - framework de testes automatizados
 Instalação em Linux
 
-# Instalando Cypress
+## Instalando Cypress
 
 ```markdown
 O que você vai aprender
