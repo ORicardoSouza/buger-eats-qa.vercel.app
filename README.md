@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round.png
+
 # buger-eats-qa.vercel.app
 Projeto de testes de aceitação do app BugerEats - Cypress Discovery
 
